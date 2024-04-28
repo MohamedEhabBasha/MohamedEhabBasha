@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab Mohamed Basha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedehabbasha" alt="mohamedehabbasha" /></a> </p>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
 - 🔭 I’m currently working on [Microservices E-commerce Website](https://github.com/MohamedEhabBasha/EShopMicroservices)
 
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed (basha) ehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed (basha) ehab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ehab-102341231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ehab-102341231" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed_basha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_basha" height="30" width="40" /></a>
 </p>
 
