@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Enter+with+curiosity%2C+leave+with+inspiration;Junior+Software+Engineer+;Competitive+Programmer+" alt="Typing SVG" /></a>
 </p>
+
 - 🔭 I’m currently working on [Microservices E-commerce Website](https://github.com/MohamedEhabBasha/EShopMicroservices)
 
 - 👯 I'm currently collaborating on [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
