@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab Mohamed Basha</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
-<img align="center" alt="Coding"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&random=false&width=450&lines=Enter+with+curiosity%2C+leave+with+inspiration;Junior+Software+Engineer+;Competitive+Programmer+)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on [Microservices E-commerce Website](https://github.com/MohamedEhabBasha/EShopMicroservices)
 
-- 🤝 I’m looking for help with [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
+- 🌱 I’m currently learning **ITI .NET Track, Angular, DevOps**
+
+- 👯 I'm currently collaborating on [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
 
 - 📫 How to reach me **mohamedehab8102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1KuBA7w5CjmxWv_pCQp9yCsasZ9B8IG1G?usp=sharing](https://drive.google.com/drive/folders/1KuBA7w5CjmxWv_pCQp9yCsasZ9B8IG1G?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kyOj0x0zxZM27vzw013xyBU9PPnvtd4V/view?usp=sharing](https://drive.google.com/file/d/1kyOj0x0zxZM27vzw013xyBU9PPnvtd4V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
