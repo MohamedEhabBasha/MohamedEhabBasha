@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab Mohamed Basha</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&random=false&width=450&lines=Enter+with+curiosity%2C+leave+with+inspiration;Junior+Software+Engineer+;Competitive+Programmer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Enter+with+curiosity%2C+leave+with+inspiration;Junior+Software+Engineer+;Competitive+Programmer+" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Microservices E-commerce Website](https://github.com/MohamedEhabBasha/EShopMicroservices)
 
-- 🌱 I’m currently learning **ITI .NET Track, Angular, DevOps**
-
 - 👯 I'm currently collaborating on [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
+
+- 🌱 I’m currently learning **ITI .NET Track, Angular, DevOps**
 
 - 📫 How to reach me **mohamedehab8102@gmail.com**
 
