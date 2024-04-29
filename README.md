@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ehab Mohamed Basha</h1>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Enter+with+curiosity%2C+leave+with+inspiration;Junior+Software+Engineer+;Competitive+Programmer+" alt="Typing SVG" /></a>
-
+</p>
 - 🔭 I’m currently working on [Microservices E-commerce Website](https://github.com/MohamedEhabBasha/EShopMicroservices)
 
 - 👯 I'm currently collaborating on [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **mohamedehab8102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kyOj0x0zxZM27vzw013xyBU9PPnvtd4V/view?usp=sharing](https://drive.google.com/file/d/1kyOj0x0zxZM27vzw013xyBU9PPnvtd4V/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kyOj0x0zxZM27vzw013xyBU9PPnvtd4V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
