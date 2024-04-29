@@ -8,7 +8,7 @@
 
 - 👯 I'm currently collaborating on [Tourism-Guidance-And-Networking Website](https://github.com/MohamedEhabBasha/Tourism-Guidance-And-Networking)
 
-- 🌱 I’m currently learning **ITI .NET Track, Angular, DevOps**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **mohamedehab8102@gmail.com**
 
