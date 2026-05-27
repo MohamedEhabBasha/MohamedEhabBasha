@@ -27,4 +27,17 @@
 
 <h3 align="left">Top Repositories</h3>
 
-<div width="100%" align="center"><a href="https://github.com/mohamedehabbasha/EShopMicroservices" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedehabbasha&repo=EShopMicroservices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mohamedehabbasha/Tourism-Guidance-And-Networking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedehabbasha&repo=Tourism-Guidance-And-Networking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table width="100%" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamedehabbasha/EShopMicroservices">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=mohamedehabbasha&repo=EShopMicroservices&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="EShopMicroservices" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohamedehabbasha/Tourism-Guidance-And-Networking">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=mohamedehabbasha&repo=Tourism-Guidance-And-Networking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Tourism Guidance And Networking" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
