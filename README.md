@@ -42,6 +42,11 @@
       </a>
     </td>
     <td align="center" width="50%">
+      <a href="https://github.com/mohamedehabbasha/Mwgoods">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=mohamedehabbasha&repo=Tourism-Guidance-And-Networking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Tourism Guidance And Networking" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/mohamedehabbasha/Tourism-Guidance-And-Networking">
         <img src="https://github-readme-stats.shion.dev/api/pin/?username=mohamedehabbasha&repo=Tourism-Guidance-And-Networking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Tourism Guidance And Networking" width="100%"/>
       </a>
