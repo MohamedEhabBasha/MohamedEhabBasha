@@ -8,7 +8,7 @@
 - 🚀 **Core Tech Stack:** Specializing in the **.NET & Angular** track to design enterprise-ready applications.
 - 🏆 **Problem Solving:** Active competitive programmer on [Codeforces](https://codeforces.com/profile/mohamed_basha), applying algorithmic thinking to real-world code.
 - 🛠️ **Current Projects:** Building architecture-driven web applications and designing editorial frontends on [Webflow](https://team-app-site-20fdd1.webflow.io/).
-- 📄 **My Background:** Check out my technical experience and track history via [My Resume](https://drive.google.com/file/d/1NZSVD2CTqa9FCvPQ2SOO7JohIOMk7EyD/view?usp=drive_link).
+- 📄 **My Background:** Check out my technical experience and track history via [My Resume](https://drive.google.com/file/d/1Fip5IWg9L85NJ1Mz8JCx4focR5uO2cuv/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
