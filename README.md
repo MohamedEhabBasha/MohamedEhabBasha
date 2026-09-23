@@ -8,7 +8,7 @@
 - 🚀 **Core Tech Stack:** Specializing in the **.NET & Angular** track to design enterprise-ready applications.
 - 🔨 **Currently Building:** [MWGoods](https://github.com/mohamedehabbasha/Mwgoods) — a full-stack, multi-vendor e-commerce marketplace: a .NET 10 modular monolith backend paired with an Angular 21 frontend, real-time seller/admin workflows via SignalR, and a Paymob-powered checkout.
 - 🎨 **Also Designing:** Awwwards-style, interaction-driven websites — designed in Figma, brought to life in Angular.
-- 📄 **My Background:** Check out my technical experience and track history via [My Resume](https://drive.google.com/file/d/1Fip5IWg9L85NJ1Mz8JCx4focR5uO2cuv/view?usp=drive_link).
+- 📄 **My Background:** Check out my technical experience and track history via [My Resume](https://drive.google.com/file/d/1oW9akBGxtaBnl6-AFN1_c-UI6IPszwvu/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
